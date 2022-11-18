@@ -7,9 +7,7 @@
   <img src="https://img.shields.io/badge/ruby-red?&style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/nuxt%20js-%2300C58E?&style=for-the-badge&logo=nuxt.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react%20js-%2361DAFB?&style=for-the-badge&logo=react&logoColor=%232E3440"/>
-  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/>
-  <br><br>
-  <b>Contact me</b><br><br>
+  <img src="https://img.shields.io/badge/next%20js-%23000000?&style=for-the-badge&logo=next.js&logoColor=white"/><br><br>
   <a href="mailto:rdcreative.id@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
